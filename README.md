@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-he AI will initially be deployed at the municipal level to identify bottlenecks in the allocation of accommodations to foreign specialists and refugees, so as to distribute them according to the needs of the municipalities and the requirements of the foreign specialists and refugees.
+The AI will initially be deployed at the municipal level to identify bottlenecks in the allocation of accommodations to foreign specialists and refugees, so as to distribute them according to the needs of the municipalities and the requirements of the foreign specialists and refugees.
 
 
 ## Background
