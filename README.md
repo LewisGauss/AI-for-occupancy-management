@@ -126,4 +126,4 @@ For successful implementation, I recommend forming an interdisciplinary project 
 
 ## Acknowledgments
 
-The idea was inspired by my work with AI and the public sector @Detecon International GmbH and working with refugees @German Ministry of Defense.
+The idea was inspired by my work with AI and in the public sector as a consultant and working with refugees @German Ministry of Defense.
